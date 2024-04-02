@@ -1,3 +1,1 @@
-# Self learning of ml
-
-https://d2l.ai/
+# Self learning of ml https://d2l.ai/
